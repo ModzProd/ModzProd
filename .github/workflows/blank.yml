@@ -6,7 +6,7 @@
     # Filename for archive
     filename: # Release.zip
     # Base path for archive files
-    path: PWSKitToolsCreative
+    path: https://github.com/JKTypeface/ModzProd/tree/6b03d9915b60a9c329c0b12d605cbff0a1340e20/PWSKitToolsCreative
     # Working directory before zipping
     directory: # optional, default is .
     # List of excluded files / directories
