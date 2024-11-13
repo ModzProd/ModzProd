@@ -40,7 +40,7 @@ jobs:
   uses: JKTypeface/zip-release@v3
   with:
     # Filename for archive
-    filename: # default is release.zip
+    filename: # Release.zip
     # Base path for archive files
     path: PWSKitToolsCreative
     # Working directory before zipping
