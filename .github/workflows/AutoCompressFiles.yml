@@ -21,7 +21,7 @@ jobs:
       - name: Compress files
         run: |
           mkdir -p compressed
-          zip -r compressed/archive.zip src
+          zip -r compressed/archive.zip PWSKitToolsCreative
         # Replace "src" with the folder or files you want to compress
 
       - name: Move ZIP to repository root
