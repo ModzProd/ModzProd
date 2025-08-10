@@ -1,3 +1,0 @@
-PreBeta(07/28/2024)
-- Characters Gen Prompt (V1, V2, V3, V4, V5)
-- Gimmick Gen Prompts (V1)
